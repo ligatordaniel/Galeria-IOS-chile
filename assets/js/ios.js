@@ -1,11 +1,8 @@
-$(document).on('mousemove', function(e){
-    $('.light').css({
-       left:  e.pageX - 300,
-       top:   e.pageY - 300
-    });
-});
 
 var el = $('.js-tilt-container');
+
+
+
 
 el.on('mousemove', function(e){
 	const {left, top} = $(this).offset();
@@ -28,3 +25,13 @@ el.on('mousemove', function(e){
 el.on('mouseleave', function(){
 	$(this).addClass('leave');
 });
+
+
+
+
+//carrusel
+
+
+  
+
+//carrusel
