@@ -1,4 +1,6 @@
 
+//effecto Ios fotos mouse
+
 var el = $('.js-tilt-container');
 
 
@@ -26,12 +28,5 @@ el.on('mouseleave', function(){
 	$(this).addClass('leave');
 });
 
+//effecto Ios fotos mouse
 
-
-
-//carrusel
-
-
-  
-
-//carrusel
