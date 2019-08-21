@@ -75,6 +75,12 @@ span {
 
 }
 
+
+.video-fluid{      /* video carrousel */
+	width: 100%;
+	height: auto;
+}
+
 nav{
 	border-radius: 1px 1px 5px 5px;
 	filter: drop-shadow(10px 10px 30px #444);
